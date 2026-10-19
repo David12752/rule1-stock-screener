@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+polars
+numpy
+pandas-ta
+yfinance
+openbb
+google-generativeai
+python-dotenv
+asyncpg
+redis
+sqlmodel
+psycopg2-binary
+scipy
+scikit-learn
+pytrends
+newsapi-python

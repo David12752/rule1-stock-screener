@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7C3AED</color>         <!-- violet-600 -->
+    <color name="colorPrimaryDark">#09090B</color>      <!-- zinc-950 dark bg -->
+    <color name="colorAccent">#D946EF</color>           <!-- fuchsia-500 -->
+    <color name="splashBackground">#09090B</color>
+</resources>
